@@ -1,2 +1,3 @@
 create file new-1.txt bu user
+insert different text from another me
 and save

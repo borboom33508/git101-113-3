@@ -1,0 +1,2 @@
+สร้างไฟล์ master1.txt ใน branch master
+และอย่าลืม save file
